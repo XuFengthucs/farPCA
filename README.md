@@ -1,2 +1,2 @@
 # farPCA
-A Fast Adaptive Randomized PCA Algorithm (Accepted by IJCAI 2023)
+The source codes are transfered to THU-numbda (https://github.com/THU-numbda/farPCA).
